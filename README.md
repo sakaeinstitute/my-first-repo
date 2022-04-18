@@ -1,2 +1,2 @@
-# my-first-repo
-Trial repository
+# mt-first-repo
+This is awesome repository
